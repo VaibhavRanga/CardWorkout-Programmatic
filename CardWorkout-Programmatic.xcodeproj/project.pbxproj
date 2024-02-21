@@ -12,6 +12,7 @@
 		B16EB5BF2B865DB4000F4CE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B16EB5BE2B865DB4000F4CE7 /* Assets.xcassets */; };
 		B16EB5C22B865DB4000F4CE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B16EB5C02B865DB4000F4CE7 /* LaunchScreen.storyboard */; };
 		B16EB5CA2B8666EE000F4CE7 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16EB5C92B8666EE000F4CE7 /* CardSelectionVC.swift */; };
+		B16EB5CC2B867072000F4CE7 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16EB5CB2B867072000F4CE7 /* CWButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B16EB5C12B865DB4000F4CE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B16EB5C32B865DB4000F4CE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B16EB5C92B8666EE000F4CE7 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
+		B16EB5CB2B867072000F4CE7 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B16EB5B52B865DB3000F4CE7 /* AppDelegate.swift */,
 				B16EB5B72B865DB3000F4CE7 /* SceneDelegate.swift */,
 				B16EB5C92B8666EE000F4CE7 /* CardSelectionVC.swift */,
+				B16EB5CB2B867072000F4CE7 /* CWButton.swift */,
 				B16EB5BE2B865DB4000F4CE7 /* Assets.xcassets */,
 				B16EB5C02B865DB4000F4CE7 /* LaunchScreen.storyboard */,
 				B16EB5C32B865DB4000F4CE7 /* Info.plist */,
@@ -137,6 +140,7 @@
 				B16EB5B62B865DB3000F4CE7 /* AppDelegate.swift in Sources */,
 				B16EB5B82B865DB3000F4CE7 /* SceneDelegate.swift in Sources */,
 				B16EB5CA2B8666EE000F4CE7 /* CardSelectionVC.swift in Sources */,
+				B16EB5CC2B867072000F4CE7 /* CWButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
